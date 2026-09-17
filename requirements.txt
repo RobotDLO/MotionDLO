@@ -1,0 +1,22 @@
+# Target runtime: Python 3.10
+#
+# Core numerical/computer-vision stack
+numpy>=1.26,<2
+matplotlib
+opencv-python
+scipy
+scikit-image
+scikit-learn
+Pillow
+
+# Registration / robotics bridge
+pycpd
+pythonnet
+
+# Deep learning (SAM3 helper scripts)
+torch
+
+# NOTE:
+# - `metavision_core` and `metavision_sdk_cv` come from Prophesee Metavision SDK
+#   and are typically installed via the vendor SDK, not pip.
+# - `sam3` appears to be a local/external package and is not declared here.
