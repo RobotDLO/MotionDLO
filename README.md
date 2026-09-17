@@ -255,7 +255,7 @@ frame to its trigger timestamp in the event camera's µs clock.
 
 Benchmark recordings (three DLO types × three manipulation speeds, with
 hardware-synchronized event and frame streams) are available in the
-[Dataset](https://figshare.com/s/c1af51646394fc36f150)
+[Dataset](https://doi.org/10.5281/zenodo.20509479)
 
 ---
 
