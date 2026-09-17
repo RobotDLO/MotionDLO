@@ -1,6 +1,6 @@
 # MotionDLO: Hybrid Event- and Frame-Based Tracking of Deformable Linear Objects.
 
-> **Anonymous Authors**
+> 
 
 <p align="center">
   <img src="Images/Overview.png" alt="MotionDLO pipeline overview" width="100%">
